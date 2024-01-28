@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Chainlit
+.chainlit
+
 # Distribution / packaging
 .Python
 build/
