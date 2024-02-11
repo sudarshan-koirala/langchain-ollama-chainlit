@@ -50,7 +50,7 @@ cd langchain-openai-chainlit
 5. Run the following command in your terminal to start the chat UI:
    ```
    # Example 1
-   chainlit run app.py
+   chainlit run simple_chatui.py
    ```
    ---
     ```
