@@ -31,8 +31,8 @@ You must have Python 3.9 or later installed. Earlier versions of python may not 
 
 1. Fork this repository and create a codespace in GitHub as I showed you in the youtube video OR Clone it locally.
 ```
-git clone https://github.com/sudarshan-koirala/langchain-openollamaai-chainlit.git
-cd langchain-openai-chainlit
+git clone https://github.com/sudarshan-koirala/langchain-ollama-chainlit.git
+cd langchain-ollama-chainlit
 ```
 
 2. Rename example.env to .env with `cp example.env .env`and input the langsmith environment variables. This is optional.
